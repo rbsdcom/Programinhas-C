@@ -58,7 +58,7 @@ int main(int argc, char const *argv[])
 	printf("\n");
 	}
 	
-	//realiza a multiplicação de uma diagonal pela outra e soma ambas.
+	//realiza a multiplicaÃ§Ã£o de uma diagonal pela outra e soma ambas.
 	coluna=2;
 	linha=2;
 	for(i=0;i<3;i++)
